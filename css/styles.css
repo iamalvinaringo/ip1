@@ -21,11 +21,12 @@ body {
 }
 
 
-#indeximage {
-
-display: block;
+.pageimage {
 height: 450px;
 width: 956px;
+display: block;
+margin-left: auto;
+margin-right: auto;
 padding-bottom: 10px;
 }
 
@@ -74,4 +75,36 @@ p {
   display: block;
   margin-left: auto;
   margin-right: auto;
+
+}
+
+#like {
+  height: 350px;
+  width: 856px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}
+
+h2 {
+  color:  #5DADE2;
+}
+
+#GSW {
+  float: left;
+  padding: 10px;
+  padding-right: 20px;
+}
+
+#keypeele {
+  float: right;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+#moringa {
+  float: left;
+  padding: 10px;
+  padding-right: 20px;
 }
