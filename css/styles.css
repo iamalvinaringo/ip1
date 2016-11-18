@@ -62,7 +62,16 @@ p {
   font-size: 20px;
 }
 
-#intro {
+.intro {
   color: #5DADE2;
   font-weight: bolder;
+}
+
+.portifolio {
+  height: 300px;
+  width: 600px;
+  padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
